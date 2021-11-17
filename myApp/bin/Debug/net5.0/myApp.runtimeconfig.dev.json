@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kerymov/.dotnet/store/|arch|/|tfm|",
+      "/Users/kerymov/.nuget/packages"
+    ]
+  }
+}
