@@ -26,14 +26,23 @@ namespace myApp
         }
     }
 
+    class AdvancedCalc : OrdinaryCalc
+    {
+        public AdvancedCalc() { }
+
+        public double cos(double num) {
+            return Math.Cos(num);
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {   
-            OrdinaryCalc calc = new OrdinaryCalc();
-            calc.num1 = 3;
-            calc.num2 = 7;
-            Console.WriteLine(calc.add());
+            AdvancedCalc calc = new AdvancedCalc();
+            Console.WriteLine(calc.cos(9));
+            calc.num1 = 12;
+            calc.num2 = 10;
+            Console.WriteLine(calc.mul());
         }
     }
 }
