@@ -2,12 +2,12 @@
 
 namespace myApp
 {
-    class OriginaryCalc
+    class OrdinaryCalc
     {
         public double num1 { get; set; }
         public double num2 { get; set; }
 
-        public OriginaryCalc() { }
+        public OrdinaryCalc() { }
 
         public double add() { 
             return num1 + num2;
@@ -30,7 +30,7 @@ namespace myApp
     {
         static void Main(string[] args)
         {   
-            OriginaryCalc calc = new OriginaryCalc();
+            OrdinaryCalc calc = new OrdinaryCalc();
             calc.num1 = 3;
             calc.num2 = 7;
             Console.WriteLine(calc.add());
