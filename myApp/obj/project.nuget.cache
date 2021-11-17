@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LCSl9hgBXq2DVAJsMqao70EIutWNxhXXeZcNqeuypmSLM1o+hLFUXV9MEBhAxA75HDL2ztqQ2P3Cq8VQ+UDpbg==",
+  "dgSpecHash": "AaPH6IJs0ygcofjlnfPUaGZkR3zZR4XKxAw0nVnxU0mCIerP+13nvJVv+B+uKQL6yX6KtZHj4y+UCZDYUt0pvQ==",
   "success": true,
-  "projectFilePath": "/Users/kerymov/myApp/myApp.csproj",
+  "projectFilePath": "/Users/kerymov/Documents/Универ/ООП/Calculator/myApp/myApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

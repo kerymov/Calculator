@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kerymov/myApp/myApp.csproj": {}
+    "/Users/kerymov/Documents/Универ/ООП/Calculator/myApp/myApp.csproj": {}
   },
   "projects": {
-    "/Users/kerymov/myApp/myApp.csproj": {
+    "/Users/kerymov/Documents/Универ/ООП/Calculator/myApp/myApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kerymov/myApp/myApp.csproj",
+        "projectUniqueName": "/Users/kerymov/Documents/Универ/ООП/Calculator/myApp/myApp.csproj",
         "projectName": "myApp",
-        "projectPath": "/Users/kerymov/myApp/myApp.csproj",
+        "projectPath": "/Users/kerymov/Documents/Универ/ООП/Calculator/myApp/myApp.csproj",
         "packagesPath": "/Users/kerymov/.nuget/packages/",
-        "outputPath": "/Users/kerymov/myApp/obj/",
+        "outputPath": "/Users/kerymov/Documents/Универ/ООП/Calculator/myApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kerymov/.nuget/NuGet/NuGet.Config"
