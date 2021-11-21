@@ -6,8 +6,8 @@ namespace myApp
     {
         public AdvancedCalc() { }
 
-        public double cos(double num) {
-            return Math.Cos(num);
+        public double cos() {
+            return Math.Cos(num1);
         }
     }
 }
