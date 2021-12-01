@@ -2,11 +2,12 @@ using System;
 
 namespace myApp
 {
-    class AdvancedCalc : OrdinaryCalc
+    class AdvancedCalc : OrdinaryCalc, IAdvanced
     {
         public AdvancedCalc() { }
 
-        public double cos() {
+        public double cos()
+        {
             return Math.Cos(num1);
         }
     }

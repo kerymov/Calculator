@@ -2,26 +2,30 @@ using System;
 
 namespace myApp
 {
-    class OrdinaryCalc
+    class OrdinaryCalc : AbstractCalc
     {
         public double num1 { get; set; }
         public double num2 { get; set; }
 
         public OrdinaryCalc() { }
 
-        public double add() { 
+        public override double add()
+        {
             return num1 + num2;
         }
 
-        public double sub() { 
+        public override double sub()
+        {
             return num1 - num2;
         }
 
-        public double mul() { 
+        public override double mul()
+        {
             return num1 * num2;
         }
 
-        public double div() { 
+        public override double div()
+        {
             return num1 / num2;
         }
     }

@@ -28,3 +28,4 @@
 /Users/kerymov/Documents/Универ/ООП/Calculator/myApp/obj/Debug/net5.0/ref/myApp.dll
 /Users/kerymov/Documents/Универ/ООП/Calculator/myApp/obj/Debug/net5.0/myApp.pdb
 /Users/kerymov/Documents/Универ/ООП/Calculator/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
+D:\WorkTable\Репозиторий\Calculator\myApp\obj\Debug\net5.0\myApp.pdb
