@@ -4,6 +4,6 @@ namespace myApp
 {
     interface IAdvanced
     {
-        public double cos();
+        public double Tan(double x);
     }
 }
